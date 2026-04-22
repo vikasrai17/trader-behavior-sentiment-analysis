@@ -1,0 +1,5 @@
+• Analyzed 50K+ trading records to evaluate the impact of market sentiment (Fear vs Greed) on trader performance and behavior
+• Engineered key metrics including daily PnL, win rate, trade frequency, and position size to quantify trading patterns
+• Identified that Extreme Greed periods yield 3–5x higher profitability, while Fear phases lead to 2–3x increase in trade activity but lower efficiency
+• Segmented traders into risk-based categories, revealing medium-risk traders outperform high-risk traders by ~2x
+• Designed sentiment-adaptive trading strategies to optimize risk exposure and improve decision-making
